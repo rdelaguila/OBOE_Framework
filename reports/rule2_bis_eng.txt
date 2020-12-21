@@ -1,0 +1,13 @@
+Explanation generated from one of the cases found where a text can be talking about the subject 'Book Review’  	In the context of finding and justifying the theme of a text, we have been able to deduce that whenever (1) book  is of medium importance in that text and (2) read  is of medium importance in that text and (3) author  is of medium importance in that text then the text analyzed could be related to the topic: 'Book Review' Showing 3 possible definitions for the term: <author> 
+		0. Definition of <author>, in compliance with the semantic meaning: writer. Definition: writes (books or stories or articles or the like) professionally (for pay)
+		1. Definition of <author>, in compliance with the semantic meaning: author. Definition: writes (books or stories or articles or the like) professionally (for pay)
+		2. Definition of <author>, in compliance with the semantic meaning: generator. Definition: someone who originates or causes or initiates something
+__________________________________________________________________________________________ Showing 3 possible definitions for the term: <book> 
+		0. Definition of <book>, in compliance with the semantic meaning: book. Definition: a written work or composition that has been published (printed on pages bound together)
+		1. Definition of <book>, in compliance with the semantic meaning: book. Definition: physical objects consisting of a number of pages bound together
+		2. Definition of <book>, in compliance with the semantic meaning: volume. Definition: physical objects consisting of a number of pages bound together
+__________________________________________________________________________________________ Showing 3 possible definitions for the term: <read> 
+		0. Definition of <read>, in compliance with the semantic meaning: read. Definition: something that is read
+		1. Definition of <read>, in compliance with the semantic meaning: read. Definition: interpret something that is written or printed
+		2. Definition of <read>, in compliance with the semantic meaning: read. Definition: have or contain a certain wording or form
+__________________________________________________________________________________________========================================================================================

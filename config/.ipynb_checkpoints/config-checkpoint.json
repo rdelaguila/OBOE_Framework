@@ -1,0 +1,1 @@
+{"corpus": "20newsgroup", "rawpath": "../data/raw/","processedpath":"../data/processed","interimpath":"../data/interim/","rules":{"terms":5,"termspath":"../objects/termspath","maxnorules":5,"maxrulelength":4}}

@@ -1,0 +1,14 @@
+Explicación generada de uno de los casos encontrados donde un texto puede tratar de 'Book Review' 	En el contexto de encontrar y justificar la temática de un texto, hemos podido deducir que cuando 
+ (1) book  tiene importancia media en dicho texto y (2) read  tiene importancia media en dicho texto y (3) author  tiene importancia media en dicho texto, entonces el texto analizado podría tratar del tema: 'Book Review'Algunas definiciones de los términos arriba expuestos: Mostrando 3 posibles definiciones para el término: <read> 
+		0. Posible definición para <read>, de acuerdo con el sentido: lectura. Definición: algo que se lee
+		1. Posible definición para <read>, de acuerdo con el sentido: leer. Definición: interpretar algo que está escrito o impreso
+		2. Posible definición para <read>, de acuerdo con el sentido: decir. Definición: tener o contener una determinada redacción o forma
+__________________________________________________________________________________________ Mostrando 3 posibles definiciones para el término: <author> 
+		0. Posible definición para <author>, de acuerdo con el sentido: autor. Definición: escribe (libros o historias o artículos o similares) profesionalmente (por pago)
+		1. Posible definición para <author>, de acuerdo con el sentido: escritor. Definición: escribe (libros o historias o artículos o similares) profesionalmente (por pago)
+		2. Posible definición para <author>, de acuerdo con el sentido: autor. Definición: alguien que origina o causa o inicia algo
+__________________________________________________________________________________________ Mostrando 3 posibles definiciones para el término: <book> 
+		0. Posible definición para <book>, de acuerdo con el sentido: libro. Definición: una obra escrita o composición que ha sido publicada (impresa en páginas encuadernadas)
+		1. Posible definición para <book>, de acuerdo con el sentido: ejemplar. Definición: objetos físicos que constan de varias páginas unidas
+		2. Posible definición para <book>, de acuerdo con el sentido: libro. Definición: objetos físicos que constan de varias páginas unidas
+__________________________________________________________________________________________========================================================================================

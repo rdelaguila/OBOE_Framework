@@ -1,0 +1,5 @@
+Explanation generated from one of the cases found where a text can be talking about the subject 'Book Review’  	In the context of finding and justifying the theme of a text, we have been able to deduce that whenever (1) read   is very important in that text then the text analyzed could be related to the topic: 'Book Review' Showing 3 possible definitions for the term: <read> 
+		0. Definition of <read>, in compliance with the semantic meaning: read. Definition: something that is read
+		1. Definition of <read>, in compliance with the semantic meaning: read. Definition: interpret something that is written or printed
+		2. Definition of <read>, in compliance with the semantic meaning: read. Definition: have or contain a certain wording or form
+__________________________________________________________________________________________========================================================================================

@@ -1,0 +1,9 @@
+Explanation generated from one of the cases found where a text can be talking about the subject 'Book Review’  	In the context of finding and justifying the theme of a text, we have been able to deduce that whenever (1) read  is of medium importance in that text and (2) story  is of medium importance in that text then the text analyzed could be related to the topic: 'Book Review' Showing 3 possible definitions for the term: <story> 
+		0. Definition of <story>, in compliance with the semantic meaning: narrative. Definition: a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+		1. Definition of <story>, in compliance with the semantic meaning: narration. Definition: a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+		2. Definition of <story>, in compliance with the semantic meaning: story. Definition: a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program
+__________________________________________________________________________________________ Showing 3 possible definitions for the term: <read> 
+		0. Definition of <read>, in compliance with the semantic meaning: read. Definition: something that is read
+		1. Definition of <read>, in compliance with the semantic meaning: read. Definition: interpret something that is written or printed
+		2. Definition of <read>, in compliance with the semantic meaning: read. Definition: have or contain a certain wording or form
+__________________________________________________________________________________________========================================================================================

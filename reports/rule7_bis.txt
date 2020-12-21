@@ -1,0 +1,10 @@
+Explicación generada de uno de los casos encontrados donde un texto puede tratar de 'Book Review' 	En el contexto de encontrar y justificar la temática de un texto, hemos podido deducir que cuando 
+ (1) story  tiene importancia media en dicho texto y (2) character  es importante en dicho texto, entonces el texto analizado podría tratar del tema: 'Book Review'Algunas definiciones de los términos arriba expuestos: Mostrando 3 posibles definiciones para el término: <character> 
+		0. Posible definición para <character>, de acuerdo con el sentido: calidad. Definición: una propiedad característica que define la aparente naturaleza individual de algo
+		1. Posible definición para <character>, de acuerdo con el sentido: característica. Definición: una propiedad característica que define la aparente naturaleza individual de algo
+		2. Posible definición para <character>, de acuerdo con el sentido: carácter. Definición: el complejo inherente de atributos que determina las acciones y reacciones morales y éticas de una persona
+__________________________________________________________________________________________ Mostrando 3 posibles definiciones para el término: <story> 
+		0. Posible definición para <story>, de acuerdo con el sentido: narración. Definición: un mensaje que dice los detalles de un acto, acontecimiento o curso de acontecimientos; Presentado por escrito o teatro o cine o como un programa de radio o televisión.
+		1. Posible definición para <story>, de acuerdo con el sentido: historia. Definición: una pieza de ficción que narra una cadena de eventos relacionados
+		2. Posible definición para <story>, de acuerdo con el sentido: relato. Definición: una pieza de ficción que narra una cadena de eventos relacionados
+__________________________________________________________________________________________========================================================================================

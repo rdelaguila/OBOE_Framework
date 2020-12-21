@@ -1,0 +1,26 @@
+start: "if" expresion_base* "then confidence = " REAL 
+expresion_base:(expresion_compuesta)+ 
+expresion_compuesta: (PARENTIZ* expresion_and PARENTDER*)+ | (PARENTIZ* expresion_or PARENTDER*)+ | (PARENTIZ* expresion PARENTDER*) + 
+expresion_and:( PARENTIZ* expresion_compuesta OPERATOR_AND expresion_compuesta PARENTDER* )+ | (expresion_and)+
+expresion_or:( PARENTIZ* expresion_compuesta OPERATOR_OR expresion_compuesta PARENTDER* )+ | (expresion_or)+
+expresion:  PARENTIZ* TERMINO OPERATOR INTEGER PARENTDER* 
+OPERATOR: ">="|"<="|"=="|">"|"<"
+TERMINO: WORD
+RELEVANCE:(NUMBER)
+blanco: " "
+INTEGER : /[0-9]+/
+INTEGER2 : ("0".."9")+//# Same as INTEGER
+REAL: INTEGER? "." INTEGER | INTEGER
+
+PARENTIZ:"("
+PARENTDER:")"
+OPERATOR_AND:"&&" | "and"
+OPERATOR_OR:"||" | "or"
+%import common.NEWLINE
+%import common.WORD
+
+%import common.LETTER
+%import common.DIGIT
+%import common.NUMBER
+%import common.WS
+%ignore WS
